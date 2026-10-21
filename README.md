@@ -12,10 +12,11 @@ Forward Deployed Engineer at Navayuvak Entrepreneurs · founder of [Vigil](https
 
 ## Open source
 
+- [existence-master/Sentient#476](https://github.com/existence-master/Sentient/pull/476): memory saves the user's name instead of "the user" (merged)
+- [existence-master/Sentient#486](https://github.com/existence-master/Sentient/pull/486): activity timeline finds a tool call's details by its id, not its timestamp (merged)
+- [liliu-z/stashbase#225](https://github.com/liliu-z/stashbase/pull/225): scheduled-task run results, missed days, Windows test fixes (merged)
 - [j-haacker/CryoSwath#52](https://github.com/j-haacker/CryoSwath/pull/52): pixi support and install docs (merged)
-- [liliu-z/stashbase#225](https://github.com/liliu-z/stashbase/pull/225): scheduled-task run results, missed days, Windows test fixes (merged into the scheduled-tasks feature branch)
 - [aws-powertools/powertools-lambda-python#8617](https://github.com/aws-powertools/powertools-lambda-python/pull/8617): wrap `GetParameters` client errors in `get_parameters_by_name` (open)
-- [existence-master/Sentient#476](https://github.com/existence-master/Sentient/pull/476): memory saves the user's name instead of "the user" (open)
 
 ## Contact
 
