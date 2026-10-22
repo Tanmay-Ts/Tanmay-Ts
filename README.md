@@ -3,6 +3,8 @@
 AI engineer building LLM agents and the tests and evals that keep them honest.
 Forward Deployed Engineer at Navayuvak Entrepreneurs · founder of [Vigil](https://getvigil.in) · B.E. AI & Data Science, Mumbai (2027).
 
+Portfolio Website:https://tanmay-ts.github.io/
+
 ## Projects
 
 - **[Vigil](https://getvigil.in)**: brand-reputation SaaS that asks ChatGPT, Gemini and Perplexity what they say about a brand and flags crises early. Solo build (Next.js, FastAPI, Supabase); code is private. Grew out of [NeuroChain](https://github.com/Tanmay-Ts/neurochain), top 5 of 5,000 teams at Mumbai Hacks 2025.
